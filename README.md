@@ -6,11 +6,18 @@
 2. 1일 1문제 1커밋을 목표로 스터디를 운영한다. 
 3.  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> 을 사용한다.
 
+## ✅ commit 규칙
++ commit 메세지: [문제 출처(플랫폼)][문제 번호] 문제이름
+
+예시)
+```
+git commit -m "[BOJ][2439] 별 찍기 - 2"
+```
+
 ## 📑 스터디 문제집
 <details>
 <summary>1주차(24.07.16 ~ 24.07.22)</summary>
 <div markdown="1">       
-
 |문제 출처(플랫폼)|문제 이름|난이도|알고리즘|
 |:---:|:---:|:---:|:---:|
 |BOJ|[별 찍기 - 2](https://www.acmicpc.net/problem/2439)|<img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" class="css-1vnxcg0" width="25px" height="25px">|```프기```|
@@ -29,6 +36,7 @@
 |BOJ|[알파벳 찾기](https://www.acmicpc.net/problem/10809)|<img src="https://static.solved.ac/tier_small/4.svg" alt="Bronze II" class="css-1vnxcg0" width="25px" height="25px">|```프기```|
 </div>
 </details>
+
 
 ## 🫂 스터디 멤버
 <table>
