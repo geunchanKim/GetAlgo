@@ -4,10 +4,8 @@
 ## 📚 스터디 운영안
 1. 매주 월요일 오후 8시 반에 비대면 스터디 진행한다.
 2. 1일 1문제 1커밋을 목표로 스터디를 운영한다. 
-3.  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> 을 사용한다.
-4. |**플랫폼**|**태그**|
-|백준|BOJ|
-|프로그래머스|PGS|
+3. <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> 을 사용한다.
+4. 백준(BOJ) & 프로그래머스(PGS) 플랫폼의 문제를 푼다.
 
 <br/>
 
@@ -17,6 +15,7 @@
 
 
 <br/>
+
 ## ✅ commit 규칙
 + commit 메세지: [문제 출처(플랫폼)][문제 번호] 문제이름
 + 예시 ▶️ ``` git commit -m "[BOJ][2439] 별 찍기 - 2" ```
