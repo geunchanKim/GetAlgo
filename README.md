@@ -5,7 +5,7 @@
 ---
 1. 매주 월요일 오후 8시 반에 비대면 스터디 진행한다.
 2. 1일 1문제 1커밋을 목표로 스터디를 운영한다. 
-3.  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>을 사용한다.
+3.  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> 을 사용한다.
 
 ## 📑 스터디 문제집
 ---
