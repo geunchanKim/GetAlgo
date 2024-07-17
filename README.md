@@ -13,7 +13,7 @@
 
 |문제 출처(플랫폼)|문제 이름|난이도|알고리즘|
 |:---:|:---:|:---:|:---:|
-|BOJ|[별 찍기 - 2](https://www.acmicpc.net/problem/2439)|<img src="https://static.solved.ac/tier_small/3.svg" alt="Bronze IV" class="css-1vnxcg0" width="225px" height="25px">|```프기```|
+|BOJ|[별 찍기 - 2](https://www.acmicpc.net/problem/2439)|<img src="https://static.solved.ac/tier_small/4.svg" alt="Bronze IV" class="css-1vnxcg0" width="225px" height="25px">|```프기```|
 |BOJ|[숫자의 합](https://www.acmicpc.net/problem/11720)||```프기```|
 |BOJ|[A + B - C](https://www.acmicpc.net/problem/31403)||```프기```|
 |BOJ|[최댓값](https://www.acmicpc.net/problem/2562)||```프기```|
