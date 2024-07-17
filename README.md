@@ -2,24 +2,35 @@
 ---
 
 ## 📚 스터디 운영안
----
 1. 매주 월요일 오후 8시 반에 비대면 스터디 진행한다.
 2. 1일 1문제 1커밋을 목표로 스터디를 운영한다. 
 3.  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> 을 사용한다.
 
 ## 📑 스터디 문제집
----
 <details>
-<summary>1주차</summary>
+<summary>1주차(24.07.16 ~ 24.07.22)</summary>
 <div markdown="1">       
 
-문제표를 여기에 추가하자
-
+|문제 출처(플랫폼)|문제 이름|난이도|알고리즘|
+|:---:|:---:|:---:|:---:|
+|BOJ|[별 찍기 - 2](https://www.acmicpc.net/problem/2439)|<img src="https://static.solved.ac/tier_small/3.svg" alt="Bronze IV" class="css-1vnxcg0">|```프기```|
+|BOJ|[숫자의 합](https://www.acmicpc.net/problem/11720)||```프기```|
+|BOJ|[A + B - C](https://www.acmicpc.net/problem/31403)||```프기```|
+|BOJ|[최댓값](https://www.acmicpc.net/problem/2562)||```프기```|
+|BOJ|[알람 시계](https://www.acmicpc.net/problem/2884)||```프기```|
+|BOJ|[ACM 호텔](https://www.acmicpc.net/problem/10250)||```프기```|
+|BOJ|[최소, 최대](https://www.acmicpc.net/problem/10818)||```프기```|
+|BOJ|[단어의 개수](https://www.acmicpc.net/problem/1152)||```프기```|
+|BOJ|[숫자의 개수](https://www.acmicpc.net/problem/2577)||```프기```|
+|BOJ|[문자열 반복](https://www.acmicpc.net/problem/2675)||```프기```|
+|BOJ|[음계](https://www.acmicpc.net/problem/2920)||```프기```|
+|BOJ|[나머지](https://www.acmicpc.net/problem/3052)||```프기```|
+|BOJ|[OX퀴즈](https://www.acmicpc.net/problem/8958)||```프기```|
+|BOJ|[알파벳 찾기](https://www.acmicpc.net/problem/10809)||```프기```|
 </div>
 </details>
 
 ## 🫂 스터디 멤버
-
 <table>
  <tr>
     <td align="center"><a href="https://github.com/geunchanKim"><img src="https://avatars.githubusercontent.com/geunchanKim" width="130px;" alt=""></a></td>
