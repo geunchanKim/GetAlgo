@@ -13,20 +13,20 @@
 
 |문제 출처(플랫폼)|문제 이름|난이도|알고리즘|
 |:---:|:---:|:---:|:---:|
-|BOJ|[별 찍기 - 2](https://www.acmicpc.net/problem/2439)|<img src="https://static.solved.ac/tier_small/4.svg" alt="Bronze IV" class="css-1vnxcg0" width="225px" height="25px">|```프기```|
-|BOJ|[숫자의 합](https://www.acmicpc.net/problem/11720)||```프기```|
-|BOJ|[A + B - C](https://www.acmicpc.net/problem/31403)||```프기```|
-|BOJ|[최댓값](https://www.acmicpc.net/problem/2562)||```프기```|
-|BOJ|[알람 시계](https://www.acmicpc.net/problem/2884)||```프기```|
-|BOJ|[ACM 호텔](https://www.acmicpc.net/problem/10250)||```프기```|
-|BOJ|[최소, 최대](https://www.acmicpc.net/problem/10818)||```프기```|
-|BOJ|[단어의 개수](https://www.acmicpc.net/problem/1152)||```프기```|
-|BOJ|[숫자의 개수](https://www.acmicpc.net/problem/2577)||```프기```|
-|BOJ|[문자열 반복](https://www.acmicpc.net/problem/2675)||```프기```|
-|BOJ|[음계](https://www.acmicpc.net/problem/2920)||```프기```|
-|BOJ|[나머지](https://www.acmicpc.net/problem/3052)||```프기```|
-|BOJ|[OX퀴즈](https://www.acmicpc.net/problem/8958)||```프기```|
-|BOJ|[알파벳 찾기](https://www.acmicpc.net/problem/10809)||```프기```|
+|BOJ|[별 찍기 - 2](https://www.acmicpc.net/problem/2439)|<img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" class="css-1vnxcg0" width="25px" height="25px">|```프기```|
+|BOJ|[숫자의 합](https://www.acmicpc.net/problem/11720)|<img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" class="css-1vnxcg0" width="25px" height="25px">|```프기```|
+|BOJ|[A + B - C](https://www.acmicpc.net/problem/31403)|<img src="https://static.solved.ac/tier_small/2.svg" alt="Bronze IV" class="css-1vnxcg0" width="25px" height="25px">|```프기```|
+|BOJ|[최댓값](https://www.acmicpc.net/problem/2562)|<img src="https://static.solved.ac/tier_small/3.svg" alt="Bronze III" class="css-1vnxcg0" width="25px" height="25px">|```프기```|
+|BOJ|[알람 시계](https://www.acmicpc.net/problem/2884)|<img src="https://static.solved.ac/tier_small/3.svg" alt="Bronze III" class="css-1vnxcg0" width="25px" height="25px">|```프기```|
+|BOJ|[ACM 호텔](https://www.acmicpc.net/problem/10250)|<img src="https://static.solved.ac/tier_small/3.svg" alt="Bronze III" class="css-1vnxcg0" width="25px" height="25px">|```프기```|
+|BOJ|[최소, 최대](https://www.acmicpc.net/problem/10818)|<img src="https://static.solved.ac/tier_small/3.svg" alt="Bronze III" class="css-1vnxcg0" width="25px" height="25px">|```프기```|
+|BOJ|[단어의 개수](https://www.acmicpc.net/problem/1152)|<img src="https://static.solved.ac/tier_small/4.svg" alt="Bronze II" class="css-1vnxcg0" width="25px" height="25px">|```프기```|
+|BOJ|[숫자의 개수](https://www.acmicpc.net/problem/2577)|<img src="https://static.solved.ac/tier_small/4.svg" alt="Bronze II" class="css-1vnxcg0" width="25px" height="25px">|```프기```|
+|BOJ|[문자열 반복](https://www.acmicpc.net/problem/2675)|<img src="https://static.solved.ac/tier_small/4.svg" alt="Bronze II" class="css-1vnxcg0" width="25px" height="25px">|```프기```|
+|BOJ|[음계](https://www.acmicpc.net/problem/2920)|<img src="https://static.solved.ac/tier_small/4.svg" alt="Bronze II" class="css-1vnxcg0" width="25px" height="25px">|```프기```|
+|BOJ|[나머지](https://www.acmicpc.net/problem/3052)|<img src="https://static.solved.ac/tier_small/4.svg" alt="Bronze II" class="css-1vnxcg0" width="25px" height="25px">|```프기```|
+|BOJ|[OX퀴즈](https://www.acmicpc.net/problem/8958)|<img src="https://static.solved.ac/tier_small/4.svg" alt="Bronze II" class="css-1vnxcg0" width="25px" height="25px">|```프기```|
+|BOJ|[알파벳 찾기](https://www.acmicpc.net/problem/10809)|<img src="https://static.solved.ac/tier_small/4.svg" alt="Bronze II" class="css-1vnxcg0" width="25px" height="25px">|```프기```|
 </div>
 </details>
 
