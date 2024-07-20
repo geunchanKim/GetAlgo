@@ -48,6 +48,21 @@
 </div>
 </details>
 
+<details>
+<summary>2주차(24.07.22 ~ 24.07.29)</summary>
+<div markdown="1">   
+ 
+|문제 번호|문제 이름|난이도|알고리즘|
+|:---:|:---:|:---:|:---:|
+|BOJ 10828|[스택](https://www.acmicpc.net/problem/10828)|<img src="https://static.solved.ac/tier_small/7.svg" alt="Silver IV" width="25px" height="25px">|```자구```|
+|BOJ 10845|[큐](https://www.acmicpc.net/problem/10845)|<img src="https://static.solved.ac/tier_small/7.svg" alt="Silver IV" width="25px" height="25px">|```자구```|
+|BOJ 1021|[회전하는 큐](https://www.acmicpc.net/problem/1021)|<img src="https://static.solved.ac/tier_small/8.svg" alt="Silver III" width="25px" height="25px">|```자구```|
+|BOJ 1966|[프린터 큐](https://www.acmicpc.net/problem/1966)|<img src="https://static.solved.ac/tier_small/8.svg" alt="Silver III" width="25px" height="25px">|```자구```|
+|BOJ 1874|[스택 수열](https://www.acmicpc.net/problem/1874)|<img src="https://static.solved.ac/tier_small/9.svg" alt="Silver II" width="25px" height="25px">|```자구```|
+
+</div>
+</details>
+
 <br/>
 
 ## 🫂 스터디 멤버
