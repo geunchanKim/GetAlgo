@@ -2,7 +2,7 @@
 ---
 
 ## 📚 스터디 운영안
-1. 매주 월요일 오후 8시 반에 비대면 스터디 진행한다.
+1. 매주 1회 비대면 스터디 진행한다.
 2. 1일 1문제 1커밋을 목표로 스터디를 운영한다. 
 3. <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> 을 사용한다.
 4. 백준(BOJ) & 프로그래머스(PGS) 플랫폼의 문제를 푼다.
@@ -25,7 +25,7 @@
 ## 📑 스터디 문제집
 
 <details>
-<summary>1주차(24.07.16 ~ 24.07.22)</summary>
+<summary>1주차(24.07.21 ~ 24.07.27)</summary>
 <div markdown="1">   
  
 |문제 번호|문제 이름|난이도|알고리즘|
@@ -49,7 +49,7 @@
 </details>
 
 <details>
-<summary>2주차(24.07.22 ~ 24.07.29)</summary>
+<summary>2주차(24.07.28 ~ 24.08.02)</summary>
 <div markdown="1">   
  
 |문제 번호|문제 이름|난이도|알고리즘|
