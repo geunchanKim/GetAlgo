@@ -23,12 +23,12 @@ int main(void)
     printf("%d\n", max);
 
     for(int i = 0; i < 9; i++)
+    {    
         if(max == ary[i])
-        {
-            n = i;
-            break;
-        }
+        n = i;
+    }
 
     printf("%d", n + 1);
+    
     return 0;
 }
