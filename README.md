@@ -56,9 +56,27 @@
 |:---:|:---:|:---:|:---:|
 |BOJ 10828|[스택](https://www.acmicpc.net/problem/10828)|<img src="https://static.solved.ac/tier_small/7.svg" alt="Silver IV" width="25px" height="25px">|```자구```|
 |BOJ 10845|[큐](https://www.acmicpc.net/problem/10845)|<img src="https://static.solved.ac/tier_small/7.svg" alt="Silver IV" width="25px" height="25px">|```자구```|
-|BOJ 1021|[회전하는 큐](https://www.acmicpc.net/problem/1021)|<img src="https://static.solved.ac/tier_small/8.svg" alt="Silver III" width="25px" height="25px">|```자구```|
+|BOJ 10866|[덱](https://www.acmicpc.net/problem/10866)|<img src="https://static.solved.ac/tier_small/7.svg" alt="Silver IV" width="25px" height="25px">|```자구```|
 |BOJ 1966|[프린터 큐](https://www.acmicpc.net/problem/1966)|<img src="https://static.solved.ac/tier_small/8.svg" alt="Silver III" width="25px" height="25px">|```자구```|
 |BOJ 1874|[스택 수열](https://www.acmicpc.net/problem/1874)|<img src="https://static.solved.ac/tier_small/9.svg" alt="Silver II" width="25px" height="25px">|```자구```|
+
+</div>
+</details>
+
+<br/>
+
+<details>
+<summary>3주차(24.08.03 ~ 24.08.09)</summary>
+<div markdown="1">   
+
+|문제 번호|문제 이름|난이도|알고리즘|
+|:---:|:---:|:---:|:---:|
+|BOJ 10799|[괄호](https://www.acmicpc.net/problem/9012)|<img src="https://static.solved.ac/tier_small/7.svg" alt="Silver IV" width="25px" height="25px">|```자구```|
+|BOJ 1158|[요세푸스 문제](https://www.acmicpc.net/problem/1158)|<img src="https://static.solved.ac/tier_small/7.svg" alt="Silver IV" width="25px" height="25px">|```자구```|
+|BOJ 2346|[풍선 터뜨리기](https://www.acmicpc.net/problem/10866)|<img src="https://static.solved.ac/tier_small/8.svg" alt="Silver III" width="25px" height="25px">|```자구```|
+|BOJ 1021|[회전하는 큐](https://www.acmicpc.net/problem/1021)|<img src="https://static.solved.ac/tier_small/8.svg" alt="Silver III" width="25px" height="25px">|```자구```|
+|BOJ 1935|[후위 표기식2](https://www.acmicpc.net/problem/1935)|<img src="https://static.solved.ac/tier_small/8.svg" alt="Silver III" width="25px" height="25px">|```자구```|
+|BOJ 10799|[쇠막대기](https://www.acmicpc.net/problem/10799)|<img src="https://static.solved.ac/tier_small/9.svg" alt="Silver II" width="25px" height="25px">|```자구```|
 
 </div>
 </details>
