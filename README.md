@@ -63,8 +63,6 @@
 </div>
 </details>
 
-<br/>
-
 <details>
 <summary>3주차(24.08.03 ~ 24.08.09)</summary>
 <div markdown="1">   
