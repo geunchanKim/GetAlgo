@@ -49,7 +49,7 @@
 </details>
 
 <details>
-<summary>2주차(24.07.28 ~ 24.08.02)</summary>
+<summary>2주차(24.07.28 ~ 24.08.09)</summary>
 <div markdown="1">   
  
 |문제 번호|문제 이름|난이도|알고리즘|
@@ -64,7 +64,7 @@
 </details>
 
 <details>
-<summary>3주차(24.08.03 ~ 24.08.09)</summary>
+<summary>3주차(24.08.10 ~ 24.08.16)</summary>
 <div markdown="1">   
 
 |문제 번호|문제 이름|난이도|알고리즘|
