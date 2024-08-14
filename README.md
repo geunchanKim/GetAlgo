@@ -79,6 +79,22 @@
 </div>
 </details>
 
+<details>
+<summary>4주차(24.08.17 ~ 24.08.22)</summary>
+<div markdown="1">   
+
+|문제 번호|문제 이름|난이도|알고리즘|필수|
+|:---:|:---:|:---:|:---:|:---:|
+|BOJ 9012|[괄호](https://www.acmicpc.net/problem/9012)|<img src="https://static.solved.ac/tier_small/7.svg" alt="Silver IV" width="25px" height="25px">|```자구```||
+|BOJ 1158|[요세푸스 문제](https://www.acmicpc.net/problem/1158)|<img src="https://static.solved.ac/tier_small/7.svg" alt="Silver IV" width="25px" height="25px">|```자구```|✔️|
+|BOJ 2346|[풍선 터뜨리기](https://www.acmicpc.net/problem/2346)|<img src="https://static.solved.ac/tier_small/8.svg" alt="Silver III" width="25px" height="25px">|```자구```||
+|BOJ 1021|[회전하는 큐](https://www.acmicpc.net/problem/1021)|<img src="https://static.solved.ac/tier_small/8.svg" alt="Silver III" width="25px" height="25px">|```자구```|✔️|
+|BOJ 1935|[후위 표기식2](https://www.acmicpc.net/problem/1935)|<img src="https://static.solved.ac/tier_small/8.svg" alt="Silver III" width="25px" height="25px">|```자구```||
+|BOJ 10799|[쇠막대기](https://www.acmicpc.net/problem/10799)|<img src="https://static.solved.ac/tier_small/9.svg" alt="Silver II" width="25px" height="25px">|```자구```|✔️|
+
+</div>
+</details>
+
 <br/>
 
 ## 🫂 스터디 멤버
