@@ -4,8 +4,8 @@
 int main(void)
 {
     int ary[8];
-    
-    scanf("%d %d %d %d %d %d %d %d", &ary[0], &ary[1], &ary[2], &ary[3], &ary[4], &ary[5], &ary[6], &ary[7]);
+    for(int i = 0; i < 8; i++){
+        scanf("%d", &ary[i]);}
 
     int asc = 1;
     int des = 1;
