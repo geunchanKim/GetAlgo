@@ -85,12 +85,13 @@
 
 |문제 번호|문제 이름|난이도|알고리즘|필수|
 |:---:|:---:|:---:|:---:|:---:|
-|BOJ 9012|[괄호](https://www.acmicpc.net/problem/9012)|<img src="https://static.solved.ac/tier_small/7.svg" alt="Silver IV" width="25px" height="25px">|```자구```||
-|BOJ 1158|[요세푸스 문제](https://www.acmicpc.net/problem/1158)|<img src="https://static.solved.ac/tier_small/7.svg" alt="Silver IV" width="25px" height="25px">|```자구```|✔️|
-|BOJ 2346|[풍선 터뜨리기](https://www.acmicpc.net/problem/2346)|<img src="https://static.solved.ac/tier_small/8.svg" alt="Silver III" width="25px" height="25px">|```자구```||
-|BOJ 1021|[회전하는 큐](https://www.acmicpc.net/problem/1021)|<img src="https://static.solved.ac/tier_small/8.svg" alt="Silver III" width="25px" height="25px">|```자구```|✔️|
-|BOJ 1935|[후위 표기식2](https://www.acmicpc.net/problem/1935)|<img src="https://static.solved.ac/tier_small/8.svg" alt="Silver III" width="25px" height="25px">|```자구```||
-|BOJ 10799|[쇠막대기](https://www.acmicpc.net/problem/10799)|<img src="https://static.solved.ac/tier_small/9.svg" alt="Silver II" width="25px" height="25px">|```자구```|✔️|
+|BOJ 11279|[최대 힙](https://www.acmicpc.net/problem/11279)|<img src="https://static.solved.ac/tier_small/9.svg" alt="Silver II" width="25px" height="25px">|```자구```|✔️|
+|BOJ 11286|[절대값 힙](https://www.acmicpc.net/problem/11286)|<img src="https://static.solved.ac/tier_small/10.svg" alt="Silver I" width="25px" height="25px">|```자구```||
+|BOJ 6416|[트리인가?](https://www.acmicpc.net/problem/6416)|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/-1.svg" alt="Unknown" width="25px" height="25px">|```자구```|✔️|
+|BOJ 11725|[트리의 부모 찾기](https://www.acmicpc.net/problem/11725)|<img src="https://static.solved.ac/tier_small/9.svg" alt="Silver II" width="25px" height="25px">|```자구```||
+|BOJ 1935|[트리 순회](https://www.acmicpc.net/problem/1991)|<img src="https://static.solved.ac/tier_small/10.svg" alt="Silver I" width="25px" height="25px">|```자구```|✔️|
+|BOJ 9934|[완전 이진 트리](https://www.acmicpc.net/problem/9934)|<img src="https://static.solved.ac/tier_small/10.svg" alt="Silver I" width="25px" height="25px">|```자구```|✔️|
+|BOJ 14675|[단절점과 단절선](https://www.acmicpc.net/problem/14675)|<img src="https://static.solved.ac/tier_small/10.svg" alt="Silver I" width="25px" height="25px">|```자구```||
 
 </div>
 </details>
