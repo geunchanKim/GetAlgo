@@ -89,7 +89,7 @@
 |BOJ 11286|[절대값 힙](https://www.acmicpc.net/problem/11286)|<img src="https://static.solved.ac/tier_small/10.svg" alt="Silver I" width="25px" height="25px">|```자구```||
 |BOJ 6416|[트리인가?](https://www.acmicpc.net/problem/6416)|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/-1.svg" alt="Unknown" width="25px" height="25px">|```자구```|✔️|
 |BOJ 11725|[트리의 부모 찾기](https://www.acmicpc.net/problem/11725)|<img src="https://static.solved.ac/tier_small/9.svg" alt="Silver II" width="25px" height="25px">|```자구```||
-|BOJ 1935|[트리 순회](https://www.acmicpc.net/problem/1991)|<img src="https://static.solved.ac/tier_small/10.svg" alt="Silver I" width="25px" height="25px">|```자구```|✔️|
+|BOJ 1991|[트리 순회](https://www.acmicpc.net/problem/1991)|<img src="https://static.solved.ac/tier_small/10.svg" alt="Silver I" width="25px" height="25px">|```자구```|✔️|
 |BOJ 9934|[완전 이진 트리](https://www.acmicpc.net/problem/9934)|<img src="https://static.solved.ac/tier_small/10.svg" alt="Silver I" width="25px" height="25px">|```자구```|✔️|
 |BOJ 14675|[단절점과 단절선](https://www.acmicpc.net/problem/14675)|<img src="https://static.solved.ac/tier_small/10.svg" alt="Silver I" width="25px" height="25px">|```자구```||
 
