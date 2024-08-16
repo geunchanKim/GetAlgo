@@ -37,4 +37,7 @@ int main()
         printf("%d, ", result[i]);
     }
     printf("%d>", result[N - 1]);
+
+    free(arr);
+    free(result);
 }
