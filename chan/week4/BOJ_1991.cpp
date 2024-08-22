@@ -10,10 +10,6 @@ struct Node{
 
 Node* createNode(char data){
     Node* newNode = new Node();
-    if (!newNode) {
-		cout << "Memory error\n";
-		return NULL;
-	}
 	newNode->data = data;
 	newNode->left = newNode->right = NULL;
 	return newNode;
