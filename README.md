@@ -96,6 +96,25 @@
 </div>
 </details>
 
+<details>
+<summary>5주차(24.08.23 ~ 24.08.29)</summary>
+<div markdown="1">   
+
+|문제 번호|문제 이름|난이도|알고리즘|필수|
+|:---:|:---:|:---:|:---:|:---:|
+|BOJ 2800|[괄호 제거](https://www.acmicpc.net/problem/2800)|<img src="https://static.solved.ac/tier_small/11.svg" alt="Gold V" width="25px" height="25px">|```자구```||
+|BOJ 2493|[탑](https://www.acmicpc.net/problem/2493)|<img src="https://static.solved.ac/tier_small/11.svg" alt="Gold V" width="25px" height="25px">|```자구```|✔️|
+|BOJ 22942|[데이터 체커](https://www.acmicpc.net/problem/22942)|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" alt="Gold IV" width="25px" height="25px">|```자구```||
+|BOJ 1918|[후위 표기식](https://www.acmicpc.net/problem/1918)|<img src="https://static.solved.ac/tier_small/14.svg" alt="Gold II" width="25px" height="25px">|```자구```|✔️|
+|BOJ 7662|[이중 우선순위 큐](https://www.acmicpc.net/problem/7662)|<img src="https://static.solved.ac/tier_small/12.svg" alt="Gold IV" width="25px" height="25px">|```자구```|✔️|
+|BOJ 21939|[문제 추천 시스템 Version1](https://www.acmicpc.net/problem/21939)|<img src="https://static.solved.ac/tier_small/12.svg" alt="Gold IV" width="25px" height="25px">|```자구```||
+|BOJ 2696|[중앙값 구하기](https://www.acmicpc.net/problem/2696)|<img src="https://static.solved.ac/tier_small/14.svg" alt="Gold II" width="25px" height="25px">|```자구```|✔️|
+|BOJ 21942|[부품 대여장](https://www.acmicpc.net/problem/21942)|<img src="https://static.solved.ac/tier_small/14.svg" alt="Gold II" width="25px" height="25px">|```자구```||
+|BOJ 21944|[문제 추천 시스템  Version2](https://www.acmicpc.net/problem/21944)|<img src="https://static.solved.ac/tier_small/14.svg" alt="Gold II" width="25px" height="25px">|```자구```||
+
+</div>
+</details>
+
 <br/>
 
 ## 🫂 스터디 멤버
