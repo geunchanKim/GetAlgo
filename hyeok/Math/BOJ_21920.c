@@ -20,9 +20,9 @@ double avr(double a, double b)
 
 int main()
 {
-    double result;
+    double outcome, sum = 0.000000, size = 0.000000;
     long long m;
-    int test_case, size = 0;
+    int test_case;
     scanf("%d", &test_case);
     long long* n = (long long*)malloc(sizeof(long long)* test_case);
 
@@ -35,17 +35,15 @@ int main()
 
     for(int i = 0; i < test_case; i++)
     {
-        if(gcd(n[i], m) == 1){
-            if(size == 0){
-                size++;
-                result = (double)n[i];
-            }
-            else{
-                result = avr(result, (double)n[i]);
-            }
+        if(gcd(n[i], m) == 1)
+        {
+            size++;
+            sum += n[i];
         }
     }
+    
+    outcome = sum / size;
 
-    printf("%.6f", result);
+    printf("%.6f", outcome);
     free(n);
 }
