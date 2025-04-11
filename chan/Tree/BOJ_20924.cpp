@@ -28,7 +28,6 @@ int main(){
     while(!Q.empty()){
         int node = Q.front();
         Q.pop();
-
         for(auto [next, dist] : tree[node]){
             if(!visited[next]){
                 visited[next] = 1;
