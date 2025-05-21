@@ -30,6 +30,13 @@ int main(){
         }else
             sum += a; 
     }
+    // while (Q.size() > 1) {
+    //     int first = Q.top(); Q.pop();
+    //     int second = Q.top(); Q.pop();
+    //     int merged = first + second;
+    //     sum += merged;
+    //     Q.push(merged);
+    // }
     cout << sum;
     return 0;
 }
