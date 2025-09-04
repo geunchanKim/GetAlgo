@@ -6,3 +6,5 @@ a.out
 a.exe
 .vscode
 setting.json
+*.o
+*.o.dSYM
